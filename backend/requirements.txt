@@ -37,7 +37,7 @@ numpy==1.26.4
 openai>=1.10.0,<2.0.0
 orjson==3.10.16
 packaging==23.2
-pinecone-client==3.0.2
+pinecone-client>=3.2.0,<4.0.0
 propcache==0.3.1
 pydantic==2.11.2
 pydantic-settings==2.8.1
